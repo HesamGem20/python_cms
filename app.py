@@ -1,7 +1,7 @@
 """
 This is a Flask web application that allows users to create and edit blog posts.
 """
-#lib
+#lib_
 from flask import Flask, render_template
 
 app = Flask(__name__)
